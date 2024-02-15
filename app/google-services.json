@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "498783382951",
+    "firebase_url": "https://chat-61d69-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-61d69",
+    "storage_bucket": "chat-61d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498783382951:android:cbf9a5fb5e74222374da82",
+        "android_client_info": {
+          "package_name": "com.av.srchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498783382951-tsjgcgvq6vnamelf8k203coffn0bj973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqO7qmgI7CmEX8YknzEGOrt9YycTBDus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498783382951-tsjgcgvq6vnamelf8k203coffn0bj973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498783382951:android:e1dc842f2d9cc5c674da82",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498783382951-tsjgcgvq6vnamelf8k203coffn0bj973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqO7qmgI7CmEX8YknzEGOrt9YycTBDus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498783382951-tsjgcgvq6vnamelf8k203coffn0bj973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498783382951:android:8f6bcd65acc5954374da82",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498783382951-tsjgcgvq6vnamelf8k203coffn0bj973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqO7qmgI7CmEX8YknzEGOrt9YycTBDus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498783382951-tsjgcgvq6vnamelf8k203coffn0bj973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
